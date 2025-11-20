@@ -8,3 +8,4 @@ done
 echo "$(date) - connected successfully"
 
 java -jar /usr/local/app/ordering-*.jar
+
